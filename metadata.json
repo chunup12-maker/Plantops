@@ -1,0 +1,8 @@
+{
+  "name": "PlantOps",
+  "description": "An autonomous plant health orchestrator powered by Gemini 3 Pro. Track plant health over time with deep reasoning, visual analysis, and proactive care plans.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
